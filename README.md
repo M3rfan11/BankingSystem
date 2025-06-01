@@ -31,7 +31,7 @@ A simple **console-based banking system** written in C# to simulate essential ba
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/BankAccountSystem.git
+   git clone https://github.com/m3rfan11/BankAccountSystem.git
    cd BankAccountSystem
 2. dotnet run
 
